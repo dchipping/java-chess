@@ -3,7 +3,6 @@ package tests.pieces;
 import main.board.Board;
 import main.board.Move;
 
-import main.pieces.PieceColour;
 import main.pieces.Queen;
 import org.junit.jupiter.api.Test;
 

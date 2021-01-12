@@ -4,7 +4,6 @@ import main.board.Board;
 import main.board.Move;
 import main.pieces.Pawn;
 import main.pieces.Piece;
-import main.pieces.PieceColour;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -4,7 +4,6 @@ import main.board.Board;
 import main.board.Cell;
 import main.board.Move;
 import main.pieces.King;
-import main.pieces.PieceColour;
 
 public class ChessGame {
 
